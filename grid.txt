@@ -1,0 +1,6 @@
+Categories de taille d'écran
+
+xs < 768px phones
+sm >= 768px tablettes
+md >= 992px desktop
+lg >= 1200px large desktop
